@@ -4,3 +4,4 @@ Teste de pull e update
 
 Adicionada mais 2 linhas
 Mais uma linha!
+E uma linha do terminal
